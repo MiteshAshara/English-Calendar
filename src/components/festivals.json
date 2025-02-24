@@ -2269,5 +2269,1141 @@
         "name": "New Year's Eve",
         "date": "2025-12-31",
         "image": null
-    }   
+    },
+    
+    {
+        "name": "English New Year",
+        "date": "2026-01-01",
+        "image": null
+    },
+    {
+        "name": "International Programmers' Day",
+        "date": "2026-01-07",
+        "image": null
+    },
+    {
+        "name": "Masik Shivaratri (Pausha)",
+        "date": "2026-01-09",
+        "image": null
+    },
+    {
+        "name": "Lal Bahadur Shastri Death Anniversary",
+        "date": "2026-01-11",
+        "image": null
+    },
+    {
+        "name": "National Youth Day",
+        "date": "2026-01-12",
+        "image": null
+    },
+    {
+        "name": "Swami Vivekananda Jayanti",
+        "date": "2026-01-12",
+        "image": null
+    },
+    {
+        "name": "Lohri",
+        "date": "2026-01-13",
+        "image": null
+    },
+    {
+        "name": "Makar Sankranti",
+        "date": "2026-01-14",
+        "image": null
+    },
+    {
+        "name": "Pongal",
+        "date": "2026-01-14",
+        "image": null
+    },
+    {
+        "name": "Uttarayan",
+        "date": "2026-01-14",
+        "image": null
+    },
+    {
+        "name": "Army Day",
+        "date": "2026-01-15",
+        "image": null
+    },
+    {
+        "name": "Guru Gobind Singh Birthday",
+        "date": "2026-01-17",
+        "image": null
+    },
+    {
+        "name": "World Religion Day",
+        "date": "2026-01-21",
+        "image": null
+    },
+    {
+        "name": "Netaji Subhash Chandra Bose Jayanti",
+        "date": "2026-01-23",
+        "image": null
+    },
+    {
+        "name": "Hazarat Ali's Birthday",
+        "date": "2026-01-23",
+        "image": null
+    },
+    {
+        "name": "Tu B'Shevat",
+        "date": "2026-01-24",
+        "image": null
+    },
+    {
+        "name": "Republic Day",
+        "date": "2026-01-26",
+        "image": null
+    },
+    {
+        "name": "International Customs Day",
+        "date": "2026-01-26",
+        "image": null
+    },
+    {
+        "name": "Birth Anniversary of Lala Lajpat Rai",
+        "date": "2026-01-28",
+        "image": null
+    },
+    {
+        "name": "Mahatma Gandhi Punyatithi",
+        "date": "2026-01-30",
+        "image": null
+    },
+    {
+        "name": "World Wetlands Day",
+        "date": "2026-02-02",
+        "image": null
+    },
+    {
+        "name": "World Cancer Day",
+        "date": "2026-02-04",
+        "image": null
+    },
+    {
+        "name": "Rose Day",
+        "date": "2026-02-07",
+        "image": null
+    },
+    {
+        "name": "Mauni Amavasya",
+        "date": "2026-02-09",
+        "image": null
+    },
+    {
+        "name": "Teddy Day",
+        "date": "2026-02-10",
+        "image": null
+    },
+    {
+        "name": "Maha Gujarat Day",
+        "date": "2026-02-10",
+        "image": null
+    },
+    {
+        "name": "Losar/Tibetan New Year",
+        "date": "2026-02-10",
+        "image": null
+    },
+    {
+        "name": "World Day of the Sick",
+        "date": "2026-02-11",
+        "image": null
+    },
+    {
+        "name": "Sarojini Naidu's Birth Anniversary",
+        "date": "2026-02-13",
+        "image": null
+    },
+    {
+        "name": "Vasant Panchami",
+        "date": "2026-02-14",
+        "image": null
+    },
+    {
+        "name": "Valentine's Day",
+        "date": "2026-02-14",
+        "image": null
+    },
+    {
+        "name": "Chhatrapati Shivaji Maharaj Jayanti",
+        "date": "2026-02-19",
+        "image": null
+    },
+    {
+        "name": "World Sustainable Energy Day",
+        "date": "2026-02-27",
+        "image": null
+    },
+    {
+        "name": "Guru Ravidas Jayanti",
+        "date": "2026-02-24",
+        "image": null
+    },
+    {
+        "name": "Sant Ravidas Jayanti",
+        "date": "2026-02-25",
+        "image": null
+    },
+    {
+        "name": "National Science Day",
+        "date": "2026-02-28",
+        "image": null
+    },
+    {
+        "name": "Leap Day",
+        "date": "2026-02-29",
+        "image": null
+    },
+    {
+        "name": "Self-Injury Awareness Day",
+        "date": "2026-03-01",
+        "image": null
+    },
+    {
+        "name": "Employee Appreciation Day",
+        "date": "2026-03-01",
+        "image": null
+    },
+    {
+        "name": "World Wildlife Day",
+        "date": "2026-03-03",
+        "image": null
+    },
+    {
+        "name": "World Hearing Day",
+        "date": "2026-03-03",
+        "image": null
+    },
+    {
+        "name": "National Safety Day",
+        "date": "2026-03-04",
+        "image": null
+    },
+    {
+        "name": "Janaki Jayanti",
+        "date": "2026-03-04",
+        "image": null
+    },
+    {
+        "name": "Maha Shivratri",
+        "date": "2026-03-08",
+        "image": null
+    },
+    {
+        "name": "International Women's Day",
+        "date": "2026-03-08",
+        "image": null
+    },
+    {
+        "name": "CISF Raising Day",
+        "date": "2026-03-10",
+        "image": null
+    },
+    {
+        "name": "Ramadan Begins",
+        "date": "2026-03-10",
+        "image": null
+    },
+    {
+        "name": "Mothering Sunday",
+        "date": "2026-03-10",
+        "image": null
+    },
+    {
+        "name": "National Vaccination Day",
+        "date": "2026-03-11",
+        "image": null
+    },
+    {
+        "name": "Phulera Dooj",
+        "date": "2026-03-12",
+        "image": null
+    },
+    {
+        "name": "World Kidney Day",
+        "date": "2026-03-14",
+        "image": null
+    },
+    {
+        "name": "Long Covid Awareness Day",
+        "date": "2026-03-15",
+        "image": null
+    },
+    {
+        "name": "World Consumer Rights Day",
+        "date": "2026-03-15",
+        "image": null
+    },
+    {
+        "name": "Navroz",
+        "date": "2026-03-20",
+        "image": null
+    },
+    {
+        "name": "International Day of Happiness",
+        "date": "2026-03-20",
+        "image": null
+    },
+    {
+        "name": "World Oral Health Day",
+        "date": "2026-03-20",
+        "image": null
+    },
+    {
+        "name": "World Forestry Day",
+        "date": "2026-03-21",
+        "image": null
+    },
+    {
+        "name": "World Water Day",
+        "date": "2026-03-22",
+        "image": null
+    },
+    {
+        "name": "Shaheed Diwas - Shri Bhagat Singh, Shri Sukhdev, Shri Rajguru",
+        "date": "2026-03-23",
+        "image": null
+    },
+    {
+        "name": "Earth Hour",
+        "date": "2026-03-23",
+        "image": null
+    },
+    {
+        "name": "National Mathematics Day",
+        "date": "2026-03-23",
+        "image": null
+    },
+    {
+        "name": "Purim",
+        "date": "2026-03-23",
+        "image": null
+    },
+    {
+        "name": "Palm Sunday",
+        "date": "2026-03-24",
+        "image": null
+    },
+    {
+        "name": "Holika Dahan",
+        "date": "2026-03-24",
+        "image": null
+    },
+    {
+        "name": "World TB Day",
+        "date": "2026-03-24",
+        "image": null
+    },
+    {
+        "name": "Holi",
+        "date": "2026-03-25",
+        "image": null
+    },
+    {
+        "name": "Hola Mohalla",
+        "date": "2026-03-25",
+        "image": null
+    },
+    {
+        "name": "World Theatre Day",
+        "date": "2026-03-27",
+        "image": null
+    },
+    {
+        "name": "Good Friday",
+        "date": "2026-03-29",
+        "image": null
+    },
+    {
+        "name": "Ranga Panchami",
+        "date": "2026-03-30",
+        "image": null
+    },
+    {
+        "name": "Easter",
+        "date": "2026-03-31",
+        "image": null
+    },
+    {
+        "name": "International Transgender Day of Visibility",
+        "date": "2026-03-31",
+        "image": null
+    },
+    {
+        "name": "Bank's Holiday",
+        "date": "2026-04-01",
+        "image": null
+    },
+    {
+        "name": "April Fools’ Day",
+        "date": "2026-04-01",
+        "image": null
+    },
+    {
+        "name": "International Pillow Fight Day",
+        "date": "2026-04-01",
+        "image": null
+    },
+    {
+        "name": "Doctors Day",
+        "date": "2026-07-01",
+        "image": null
+    },
+    {
+        "name": "World UFO Day",
+        "date": "2026-07-02",
+        "image": null
+    },
+    {
+        "name": "USA Independence Day",
+        "date": "2026-07-04",
+        "image": null
+    },
+    {
+        "name": "Masik Shivaratri (Ashadha)",
+        "date": "2026-07-04",
+        "image": null
+    },
+    {
+        "name": "Rath Yatra",
+        "date": "2026-07-08",
+        "image": null
+    },
+    {
+        "name": "World Population Day",
+        "date": "2026-07-11",
+        "image": null
+    },
+    {
+        "name": "Parkash Guru Harkrishan Sahib Ji",
+        "date": "2026-07-11",
+        "image": null
+    },
+    {
+        "name": "Muharram Begins (Tentative Date)",
+        "date": "2026-07-17",
+        "image": null
+    },
+    {
+        "name": "Nelson Mandela Day",
+        "date": "2026-07-18",
+        "image": null
+    },
+    {
+        "name": "Muharram",
+        "date": "2026-07-19",
+        "image": null
+    },
+    {
+        "name": "Guru Purnima",
+        "date": "2026-07-21",
+        "image": null
+    },
+    {
+        "name": "Kargil Victory Day",
+        "date": "2026-07-26",
+        "image": null
+    },
+    {
+        "name": "World Nature Conservation Day",
+        "date": "2026-07-28",
+        "image": null
+    },
+    {
+        "name": "World Hepatitis Day",
+        "date": "2026-07-28",
+        "image": null
+    },
+    {
+        "name": "Parents Day",
+        "date": "2026-07-28",
+        "image": null
+    },
+    {
+        "name": "International Tiger Day",
+        "date": "2026-07-29",
+        "image": null
+    },
+    {
+        "name": "Friendship Day",
+        "date": "2026-08-04",
+        "image": null
+    },
+    {
+        "name": "International Friendship Day",
+        "date": "2026-08-04",
+        "image": null
+    },
+    {
+        "name": "National Handloom Day",
+        "date": "2026-08-07",
+        "image": null
+    },
+    {
+        "name": "Hariyali Teej",
+        "date": "2026-08-07",
+        "image": null
+    },
+    {
+        "name": "Quit India Movement Day",
+        "date": "2026-08-08",
+        "image": null
+    },
+    {
+        "name": "Nag Panchami",
+        "date": "2026-08-09",
+        "image": null
+    },
+    {
+        "name": "Tulsidas Jayanti",
+        "date": "2026-08-12",
+        "image": null
+    },
+    {
+        "name": "Parsi New Year",
+        "date": "2026-08-15",
+        "image": null
+    },
+    {
+        "name": "Independence Day",
+        "date": "2026-08-15",
+        "image": null
+    },
+    {
+        "name": "Sunday Ullambana",
+        "date": "2026-08-18",
+        "image": null
+    },
+    {
+        "name": "World Photography Day",
+        "date": "2026-08-19",
+        "image": null
+    },
+    {
+        "name": "Rakhsha Bandhan",
+        "date": "2026-08-19",
+        "image": null
+    },
+    {
+        "name": "World Sanskrit Day (Sanskrit Diwas)",
+        "date": "2026-08-19",
+        "image": null
+    },
+    {
+        "name": "Sadbhavana Diwas",
+        "date": "2026-08-20",
+        "image": null
+    },
+    {
+        "name": "Kajari Teej",
+        "date": "2026- 08-22",
+        "image": null
+    },
+    {
+        "name": "Women's Equality Day",
+        "date": "2026-08-26",
+        "image": null
+    },
+    {
+        "name": "Sri Krishna Janmashtami",
+        "date": "2026-08-26",
+        "image": null
+    },
+    {
+        "name": "Dahi Handi",
+        "date": "2026-08-27",
+        "image": null
+    },
+    {
+        "name": "National Sports Day- India",
+        "date": "2026-08-29",
+        "image": null
+    },
+    {
+        "name": "Small Industry Day",
+        "date": "2026-08-30",
+        "image": null
+    },
+    {
+        "name": "International Overdose Awareness Day",
+        "date": "2026-08-31",
+        "image": null
+    },
+    {
+        "name": "World Coconut Day",
+        "date": "2026-09-02",
+        "image": null
+    },
+    {
+        "name": "World Sexual Health Day",
+        "date": "2026-09-04",
+        "image": null
+    },
+    {
+        "name": "Teacher's Day (Dr. Radhakrishnan's BirthDay)",
+        "date": "2026-09-05",
+        "image": null
+    },
+    {
+        "name": "Hartalika Teej",
+        "date": "2026-09-06",
+        "image": null
+    },
+    {
+        "name": "Ganesh Chaturthi",
+        "date": "2026-09-07",
+        "image": null
+    },
+    {
+        "name": "Still's Disease Awareness Day",
+        "date": "2026-09-07",
+        "image": null
+    },
+    {
+        "name": "Rishi Panchami",
+        "date": "2026-09-08",
+        "image": null
+    },
+    {
+        "name": "International Literacy Day",
+        "date": "2026-09-08",
+        "image": null
+    },
+    {
+        "name": "Grandparents Day",
+        "date": "2026-09-08",
+        "image": null
+    },
+    {
+        "name": "World Suicide Prevention Day",
+        "date": "2026-09-10",
+        "image": null
+    },
+    {
+        "name": "International Programmers' Day",
+        "date": "2026-09-12",
+        "image": null
+    },
+    {
+        "name": "Friday the 13th",
+        "date": "2026-09-13",
+        "image": null
+    },
+    {
+        "name": "Hindi Diwas",
+        "date": "2026-09-14",
+        "image": null
+    },
+    {
+        "name": "World First Aid Day",
+        "date": "2026-09-14",
+        "image": null
+    },
+    {
+        "name": "Onam",
+        "date": "2026-09-15",
+        "image": null
+    },
+    {
+        "name": "Engineers Day",
+        "date": "2026-09-15",
+        "image": null
+    },
+    {
+        "name": "World Ozone Day",
+        "date": "2026-09-16",
+        "image": null
+    },
+    {
+        "name": "International Day of preservation",
+        "date": "2026-09-16",
+        "image": null
+    },
+    {
+        "name": "Vishwakarma Jayanti",
+        "date": "2026-09-16",
+        "image": null
+    },
+    {
+        "name": "Anant Chaturdashi",
+        "date": "2026-09-17",
+        "image": null
+    },
+    {
+        "name": "World Alzheimer's day",
+        "date": "2026-09-21",
+        "image": null
+    },
+    {
+        "name": "International Day of Peace",
+        "date": "2026-09-21",
+        "image": null
+    },
+    {
+        "name": "World Rivers Day",
+        "date": "2026-09-22",
+        "image": null
+    },
+    {
+        "name": "International Celebrate Bisexuality Day",
+        "date": "2026-09-23",
+        "image": null
+    },
+    {
+        "name": "Daughter's Day",
+        "date": "2026-09-22",
+        " image": null
+    },
+    {
+        "name": "World Tourism Day",
+        "date": "2026-09-27",
+        "image": null
+    },
+    {
+        "name": "Birthday of Shaheed Bhagat Singh Ji",
+        "date": "2026-09-28",
+        "image": null
+    },
+    {
+        "name": "World Rabies Day",
+        "date": "2026-09-28",
+        "image": null
+    },
+    {
+        "name": "Kshamavani (Forgiveness Day)",
+        "date": "2026-09-30",
+        "image": null
+    },
+    {
+        "name": "World Vegetarian Day",
+        "date": "2026-10-01",
+        "image": null
+    },
+    {
+        "name": "International Day for the Elderly(UN)",
+        "date": "2026-10-01",
+        "image": null
+    },
+    {
+        "name": "Gandhi Jayanti - International Day of Non-Violence",
+        "date": "2026-10-02",
+        "image": "https://m.media-amazon.com/images/I/719jsC83poL.jpg"
+    },
+    {
+        "name": "Lal Bahadur Shastri Jayanti",
+        "date": "2026-10-02",
+        "image": null
+    },
+    {
+        "name": "Rosh Hashanah",
+        "date": "2026-10-02",
+        "image": null
+    },
+    {
+        "name": "Sharad Navratri begins",
+        "date": "2026-10-03",
+        "image": null
+    },
+    {
+        "name": "World Animal Welfare Day",
+        "date": "2026-10-04",
+        "image": null
+    },
+    {
+        "name": "World Cerebral Palsy Day",
+        "date": "2026-10-06",
+        "image": null
+    },
+    {
+        "name": "Shemini Atzeret (Simchat Torah)",
+        "date": "2026-10-07",
+        "image": null
+    },
+    {
+        "name": "Indian Air-force day",
+        "date": "2026-10-08",
+        "image": null
+    },
+    {
+        "name": "Jalaram Bapa Jayanti",
+        "date": "2026-10-08",
+        "image": null
+    },
+    {
+        "name": "Birthday of Guru Ram Das (Nanakshahi calendar)",
+        "date": "2026-10-09",
+        "image": null
+    },
+    {
+        "name": "World Postal Day",
+        "date": "2026-10-09",
+        "image": null
+    },
+    {
+        "name": "World Calamity Control Day(UN)",
+        "date": "2026-10-09",
+        "image": null
+    },
+    {
+        "name": "Durga Puja Begins",
+        "date": "2026-10-09",
+        "image": null
+    },
+    {
+        "name": "World Sight Day",
+        "date": "2026-10-10",
+        "image": null
+    },
+    {
+        "name": "World Mental Health Day",
+        "date": "2026-10-10",
+        "image": null
+    },
+    {
+        "name": "Durga Ashtami",
+        "date": "2026-10-11",
+        "image": null
+    },
+    {
+        "name": "Mahanavami",
+        "date": "2026-10-11",
+        "image": null
+    },
+    {
+        "name": "International Girl Child Day",
+        "date": "2026-10-11",
+        "image": null
+    },
+    {
+        "name": "Mahashtami",
+        "date": "2026-10-11",
+        "image": null
+    },
+    {
+        "name": "Dussehra, Durga Visarjan",
+        "date": "2026-10-12",
+        "image": null
+    },
+    {
+        "name": "Yom Kippur",
+        "date": "2026-10-12",
+        "image": null
+    },
+    {
+        "name": "World Standard Day",
+        "date": "2026-10-14",
+        "image": null
+    },
+    {
+        "name": "Navratri begins",
+        "date": "2026-10-15",
+        "image": null
+    },
+    {
+        "name": "World White cane day(guiding the blind)",
+        "date": "2026-10-15",
+        " image": null
+    },
+    {
+        "name": "APJ Abdul Kalam Birth Anniversary",
+        "date": "2026-10-15",
+        "image": null
+    },
+    {
+        "name": "Sukkot",
+        "date": "2026-10-16",
+        "image": null
+    },
+    {
+        "name": "Boss Day",
+        "date": "2026-10-16",
+        "image": null
+    },
+    {
+        "name": "Sharad Purnima",
+        "date": "2026-10-16",
+        "image": null
+    },
+    {
+        "name": "World Food Day",
+        "date": "2026-10-16",
+        "image": null
+    },
+    {
+        "name": "Maharishi Valmiki Jayanti (Birthday)",
+        "date": "2026-10-17",
+        "image": null
+    },
+    {
+        "name": "International Day for the Eradication of Poverty",
+        "date": "2026-10-17",
+        "image": null
+    },
+    {
+        "name": "Karva Chauth",
+        "date": "2026-10-20",
+        "image": null
+    },
+    {
+        "name": "National Solidarity Day (China attacked India on that day)",
+        "date": "2026-10-20",
+        "image": null
+    },
+    {
+        "name": "United Nations Day",
+        "date": "2026-10-24",
+        "image": null
+    },
+    {
+        "name": "Ahoi Ashtami",
+        "date": "2026-10-24",
+        "image": null
+    },
+    {
+        "name": "World Stroke Day",
+        "date": "2026-10-29",
+        "image": null
+    },
+    {
+        "name": "Dhan Teras",
+        "date": "2026-10-29",
+        "image": null
+    },
+    {
+        "name": "World Thrift Day",
+        "date": "2026-10-30",
+        "image": null
+    },
+    {
+        "name": "Kali Chaudas",
+        "date": "2026-10-30",
+        "image": null
+    },
+    {
+        "name": "Bengal Kali Puja",
+        "date": "2026-10-31",
+        "image": null
+    },
+    {
+        "name": "Rastriya Ekta Diwas /National Unity Day(Sardar Patel)",
+        "date": "2026-10-31",
+        "image": null
+    },
+    {
+        "name": "Halloween",
+        "date": "2026-10-31",
+        "image": null
+    },
+    {
+        "name": "World Vegan Day",
+        "date": "2026-11-01",
+        "image": null
+    },
+    {
+        "name": "Lakshmi Puja",
+        "date": "2026-11-01",
+        "image": null
+    },
+    {
+        "name": "Diwali",
+        "date": "2026-11-01",
+        "image": null
+    },
+    {
+        "name": "Govardhan Puja",
+        "date": "2026-11-02",
+        "image": null
+    },
+    {
+        "name": "New Year",
+        "date": "2026-11-02",
+        "image": null
+    },
+    {
+        "name": "Bhai Dooj",
+        "date": "2026-11-03",
+        "image": null
+    },
+    {
+        "name": "National Cancer Awareness Day",
+        "date": "2026-11-04",
+        "image": null
+    },
+    {
+        "name": "Chhath Puja (Nahai Khai ~ Suryodaya Argh)",
+        "date": "2026-11-05",
+        "image": null
+    },
+    {
+        "name": "World Tsunami Day",
+        "date": "2026-11-05",
+        "image": null
+    },
+    {
+        "name": "Labh Panchami",
+        "date": "2026-11-06",
+        "image": null
+    },
+    {
+        "name": "Legal Services Day",
+        "date": "2026-11-09",
+        "image": null
+    },
+    {
+        "name": "Akshaya Navami",
+        "date": "2026-11-10",
+        "image": null
+    },
+    {
+        "name": "World Pneum onia Day",
+        "date": "2026-11-12",
+        "image": null
+    },
+    {
+        "name": "Tulsi Vivah",
+        "date": "2026-11-13",
+        "image": null
+    },
+    {
+        "name": "Bhai Dooj",
+        "date": "2026-11-14",
+        "image": null
+    },
+    {
+        "name": "Children Day",
+        "date": "2026-11-14",
+        "image": null
+    },
+    {
+        "name": "Diabetes Day",
+        "date": "2026-11-14",
+        "image": null
+    },
+    {
+        "name": "Guru Nanak Jayanti",
+        "date": "2026-11-15",
+        "image": null
+    },
+    {
+        "name": "World Prematurity Day",
+        "date": "2026-11-17",
+        "image": null
+    },
+    {
+        "name": "International Men's Day",
+        "date": "2026-11-19",
+        "image": null
+    },
+    {
+        "name": "Transgender Day of Remembrance",
+        "date": "2026-11-20",
+        "image": null
+    },
+    {
+        "name": "Martyrdom Of Guru Tegh Bahadur Sahib (Nanakshahi calendar)",
+        "date": "2026-11-24",
+        "image": null
+    },
+    {
+        "name": "Thanksgiving Day",
+        "date": "2026-11-28",
+        "image": null
+    },
+    {
+        "name": "St Andrew's Day",
+        "date": "2026-11-30",
+        "image": null
+    },
+    {
+        "name": "World AIDS Day",
+        "date": "2026-12-01",
+        "image": null
+    },
+    {
+        "name": "National Pollution Day",
+        "date": "2026-12-02",
+        "image": null
+    },
+    {
+        "name": "World Day of the Handicapped",
+        "date": "2026-12-03",
+        "image": null
+    },
+    {
+        "name": "Indian Navy Day",
+        "date": "2026-12-04",
+        "image": null
+    },
+    {
+        "name": "World Soil Day",
+        "date": "2026-12-05",
+        "image": null
+    },
+    {
+        "name": "Vivah Panchami",
+        "date": "2026-12-06",
+        "image": null
+    },
+    {
+        "name": "Indian Armed Forces Flag Day",
+        "date": "2026-12-07",
+        "image": null
+    },
+    {
+        "name": "Feast of the Immaculate Conception",
+        "date": "2026-12-08",
+        "image": null
+    },
+    {
+        "name": "Human Rights Day",
+        "date": "2026-12-10",
+        "image": null
+    },
+    {
+        "name": "International Mountain Day",
+        "date": "2026-12-11",
+        "image": null
+    },
+    {
+        "name": "Shrimad Bhagavad Gita Jayanti",
+        "date": "2026-12-11",
+        "image": null
+    },
+    {
+        "name": "World Energy Conservation Day",
+        "date": "2026-12-14",
+        "image": null
+    },
+    {
+        "name": "Minorities Right Day",
+        "date": "2026-12-18",
+        "image": null
+    },
+    {
+        "name": "Kisan Day",
+        "date": "2026-12-23",
+        "image": null
+    },
+    {
+        "name": "National Consumers Day",
+        "date": "2026-12-24",
+        "image": null
+    },
+    {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "image": null
+    },
+    {
+        "name": "Veer Baal Diwas",
+        "date": "2026-12-26",
+        "image": null
+    },
+    {
+        "name": "New Year's Eve",
+        "date": "2026-12-31",
+        "image": null
+    }
 ]
