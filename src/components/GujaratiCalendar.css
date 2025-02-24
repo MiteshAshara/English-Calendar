@@ -54,8 +54,8 @@ code {
 .calendar-row {
   display: flex;
   margin-bottom: 10px;
-  width: calc(100% + 5px); /* Adjust width to accommodate margin */
-  margin-left: -2.5px; /* Compensate for added margin */
+  width: calc(100% + 5px); 
+  margin-left: -2.5px; 
 }
 
 .calendar-day {
@@ -64,7 +64,7 @@ code {
   text-align: center;
   position: relative;
   border-radius: 10px;
-  width: calc(14.28% - 5px); /* Adjust width to accommodate margin */
+  width: calc(14.28% - 5px); 
   margin: 2.5px;
   cursor: pointer;
   transition: background-color 0.3s ease;
@@ -75,32 +75,28 @@ code {
   font-weight: 700;
 }
 
-/* Sundays */
 .calendar-day.sunday {
-  background-color: white; /* Default color for Sundays */
+  background-color: white;
 }
 
-/* Festival Days */
 .calendar-day.festival-day {
-  background-color: lightgreen; /* Color for festival days */
+  background-color: lightgreen;
 }
 
 .calendar-day.festival-sunday {
-  background-color: lightgreen; /* Override for festivals on Sundays */
+  background-color: lightgreen;
 }
 
-/* Selected Day */
 .calendar-day.selected {
-  background-color: red !important; /* Gold color for today's date, overriding other styles */
+  background-color: red !important;
   font-weight: bold;
 }
 
-/* Selected Festival Day */
 .calendar-day.selected.festival-day {
-  background: linear-gradient(155deg, gold, lightgreen); /* Gradient for festival on current date */
+  background: linear-gradient(155deg, gold, lightgreen); 
 }
 
-/* Festival Information Tooltip */
+
 .festival-info {
   display: none;
   position: absolute;
@@ -130,9 +126,9 @@ code {
   margin: 10px auto;
 }
 .hello-message {
-    font-size: 0.8em; /* Adjust size */
-    color: gray; /* Adjust color */
-    margin-top: 2px; /* Space above */
+    font-size: 0.8em; 
+    color: gray; 
+    margin-top: 2px; 
 }
 
 GujaratiCalendar.css 
@@ -196,7 +192,6 @@ GujaratiCalendar.css
   margin-top: 20px;
   text-align: center;
   border-radius: 3px;
-  /* border: 2px solid black; */
   cursor: pointer;
   transition: background-color 0.2s ease;
 }
