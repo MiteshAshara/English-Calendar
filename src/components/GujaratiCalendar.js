@@ -6,40 +6,37 @@ const GujaratiCalendar = ({ festivals }) => {
   const [currentMonth, setCurrentMonth] = useState(new Date());
   const [selectedDate, setSelectedDate] = useState(new Date());
 
-  // Navigate to the previous month
+
   const goToPreviousMonth = () => {
     setCurrentMonth(subMonths(currentMonth, 1));
   };
 
-  // Navigate to the next month
+
   const goToNextMonth = () => {
     setCurrentMonth(addMonths(currentMonth, 1));
   };
 
-  // Set current date when 'Today' button is clicked
   const goToToday = () => {
     const today = new Date();
-    setCurrentMonth(today);  // Set the calendar to the current date's month
-    setSelectedDate(today);   // Highlight the current date
+    setCurrentMonth(today); 
+    setSelectedDate(today); 
   };
 
-  // Select a day
+
   const selectDay = (day) => {
     setSelectedDate(day);
   };
 
-  // Get festival for a specific date
   const getFestivalForDate = (date) => {
     const dateString = format(date, 'yyyy-MM-dd');
     return festivals.find(festival => festival.date === dateString);
   };
 
-  // Check if the day is today
   const isToday = (day) => {
     return isSameDay(day, new Date());
   };
 
-  // Render the days of the month
+
   const renderDays = () => {
     const monthStart = startOfMonth(currentMonth);
     const monthEnd = endOfMonth(monthStart);
@@ -49,19 +46,18 @@ const GujaratiCalendar = ({ festivals }) => {
 
     let day = startDate;
     while (day <= endDate) {
-      const isFest = getFestivalForDate(day); // Check if it's a festival
+      const isFest = getFestivalForDate(day); 
       const isCurrentDay = isToday(day);
       const isCurrentMonth = isSameMonth(day, monthStart);
 
       let backgroundStyle = '';
       let dayClass = '';
 
-      // Handle festival day styling
+     
       if (isFest) {
-        backgroundStyle = 'lightgreen'; // Light green for festival days
+        backgroundStyle = 'lightgreen'; 
       }
 
-      // Handle current day styling
       if (isCurrentDay) {
         backgroundStyle = isFest ? 'linear-gradient(155deg, gold, lightgreen)' : 'lightgreen'; 
       } else {
@@ -80,7 +76,7 @@ const GujaratiCalendar = ({ festivals }) => {
           style={{
             background: backgroundStyle,
             color: isCurrentMonth ? 'black' : 'gray',
-            opacity: isCurrentMonth ? 1 : 0.4, // Dim non-current month days
+            opacity: isCurrentMonth ? 1 : 0.4, 
           }}
         >
           {format(day, 'd')}
